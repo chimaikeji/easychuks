@@ -226,9 +226,14 @@
             <div class="row">
                 <div class="col-md-6">
                     <form action="">
-                        <input type="email" id="email" name="email" value="email address">
+                        <input type="email" id="email" name="email" value="email address"><br>
                         <input type="password" id="pword" name="password" value="password">
                     </form>
+                </div>
+                <div class="col-md-6">
+                  <h5>Contact</h5>
+                  <p>ahtistzeasychuk@gmail.com</p><br>
+                  <p>+2348160903760</p>
                 </div>
             </div>
         </div>
