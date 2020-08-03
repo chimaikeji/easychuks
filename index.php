@@ -232,7 +232,7 @@
                 </div>
                 <div class="col-md-6">
                   <h5>Contact</h5>
-                  <p>ahtistzeasychuk@gmail.com</p><br>
+                  <p>ahtistzeasychuk@gmail.com</p>
                   <p>+2348160903760</p>
                 </div>
             </div>
